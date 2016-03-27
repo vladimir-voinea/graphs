@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		E7E622601CA8587C00B35B34 /* graphs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = graphs; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7E622631CA8587C00B35B34 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		E7E6226A1CA858AA00B35B34 /* directed_graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = directed_graph.h; path = ../directed_graph.h; sourceTree = "<group>"; };
+		E7E6226A1CA858AA00B35B34 /* directed_graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = directed_graph.h; sourceTree = "<group>"; };
 		E7E6226B1CA85A4300B35B34 /* graph_util.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graph_util.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
